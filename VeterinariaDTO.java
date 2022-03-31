@@ -18,7 +18,7 @@ public class VeterinariaDTO {
 	}
 
 	public void setMascotas(String datosMascotas[]) {
-		String[] datosMascotas = { "pepe","caballo","lucy","gata","ernesto perez","frailejon"}; 
+		String[] datosMascotas = { "pepe","caballo","lucy","gato","ernesto perez","frailejon"}; 
 		this.mascotas = mascotas;
 	}
 
